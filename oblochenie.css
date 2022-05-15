@@ -189,12 +189,42 @@ body
   position:absolute;
 }
 
-#top7 /*рубашка6*/
+#top7 /*рубашка7*/
 {
   width:72%;
   height:35%;
   margin-left:12.5%; 
   margin-top:36.7%;
+  display:block;
+  position:absolute;
+}
+
+#top8 /*рубашка8*/
+{
+  width:72%;
+  height:35%;
+  margin-left:13.4%; 
+  margin-top:37.9%;
+  display:block;
+  position:absolute;
+}
+
+#top9 /*рубашка9*/
+{
+  width:72%;
+  height:35%;
+  margin-left:13.6%; 
+  margin-top:37.9%;
+  display:block;
+  position:absolute;
+}
+
+#top10 /*рубашка8*/
+{
+  width:76%;
+  height:35%;
+  margin-left:11.4%; 
+  margin-top:37.8%;
   display:block;
   position:absolute;
 }
@@ -310,6 +340,16 @@ body
 }
 
 #dress3 /*костюм3*/
+{
+  width:82.2%;
+  height:81%;
+  margin-left:8.6%; 
+  margin-top:33%;
+  display:block;
+  position:absolute;
+}
+
+#dress4 /*костюм4*/
 {
   width:82.2%;
   height:81%;
